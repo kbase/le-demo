@@ -6,5 +6,5 @@ please see the [KBase Build & Release Guide](https://github.com/kbase/.github/tr
 ## To Do:
 
 - [ ] Update this README.md with info about your repository
-- [ ] Modify `Dockerfile` with needed steps (assuming repo produces a Docker image)
+- [x] Modify `Dockerfile` with needed steps (assuming repo produces a Docker image)
 - [x] Ensure all [branch rules](https://github.com/kbase/.github/blob/develop/guide/enable-branch-rules.md) & [status checks](https://github.com/kbase/.github/blob/develop/guide/enable-branch-rules.md#require-status-checks) are enabled
